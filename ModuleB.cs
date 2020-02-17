@@ -5,5 +5,7 @@ public class ModuleB
     {
         int res = ModuleA.FuntionA(1, 2);
         Console.WriteLine(res);
+
+        // modified
     }
 }
